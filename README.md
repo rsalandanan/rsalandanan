@@ -4,5 +4,3 @@
      > raphaelyapsalandanan@gmailcom
      
 - Portfolio link: https://rsalandanan.itch.io/
-
-- Take care
