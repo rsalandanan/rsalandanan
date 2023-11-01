@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsalandanan
 - 👀 I’m interested in developing video games
 - 📫 How to reach me 
-     > raphaelyapsalandanan@gmailcom
+     > raphaelyapsalandanan@gmail.com
      
 - Portfolio link: https://rsalandanan.itch.io/
