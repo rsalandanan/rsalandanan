@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rysalandanan
-- 📫 How to reach me 
-     > raphaelyapsalandanan@gmail.com
 - 🔨 Currently working on:
-     > Project Bella
+     > Project Bella 
+ https://github.com/rsalandanan/Project_Bella
+
 - Portfolio link: https://rysalandanan.itch.io/
+
